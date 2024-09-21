@@ -1,1 +1,1 @@
-Hi, I'm the new guy.. just trying to learn how to use GitHub.
+J'ai rédigé un README.md avec un Descriptif et je l'ai sauvegardé.
